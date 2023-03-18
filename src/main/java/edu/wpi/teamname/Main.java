@@ -15,7 +15,7 @@ public class Main {
 
     System.out.println("Jamie Rapal");
 
-    System.out.println("Megan Jacques");
+    System.out.println("Megan Jacques ");
     // shortcut: psvm
   }
 }
